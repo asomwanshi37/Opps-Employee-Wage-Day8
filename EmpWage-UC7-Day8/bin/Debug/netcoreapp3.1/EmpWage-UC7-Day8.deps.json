@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EmpWage-UC7-Day8/1.0.0": {
+        "runtime": {
+          "EmpWage-UC7-Day8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmpWage-UC7-Day8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
