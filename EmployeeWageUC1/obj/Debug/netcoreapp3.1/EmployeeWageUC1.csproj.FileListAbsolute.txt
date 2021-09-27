@@ -1,0 +1,14 @@
+C:\Users\Akshay Somwanshi\source\repos\EmployeeWageUC1\bin\Debug\netcoreapp3.1\EmployeeWageUC1.exe
+C:\Users\Akshay Somwanshi\source\repos\EmployeeWageUC1\bin\Debug\netcoreapp3.1\EmployeeWageUC1.deps.json
+C:\Users\Akshay Somwanshi\source\repos\EmployeeWageUC1\bin\Debug\netcoreapp3.1\EmployeeWageUC1.runtimeconfig.json
+C:\Users\Akshay Somwanshi\source\repos\EmployeeWageUC1\bin\Debug\netcoreapp3.1\EmployeeWageUC1.runtimeconfig.dev.json
+C:\Users\Akshay Somwanshi\source\repos\EmployeeWageUC1\bin\Debug\netcoreapp3.1\EmployeeWageUC1.dll
+C:\Users\Akshay Somwanshi\source\repos\EmployeeWageUC1\bin\Debug\netcoreapp3.1\EmployeeWageUC1.pdb
+C:\Users\Akshay Somwanshi\source\repos\EmployeeWageUC1\obj\Debug\netcoreapp3.1\EmployeeWageUC1.csproj.AssemblyReference.cache
+C:\Users\Akshay Somwanshi\source\repos\EmployeeWageUC1\obj\Debug\netcoreapp3.1\EmployeeWageUC1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akshay Somwanshi\source\repos\EmployeeWageUC1\obj\Debug\netcoreapp3.1\EmployeeWageUC1.AssemblyInfoInputs.cache
+C:\Users\Akshay Somwanshi\source\repos\EmployeeWageUC1\obj\Debug\netcoreapp3.1\EmployeeWageUC1.AssemblyInfo.cs
+C:\Users\Akshay Somwanshi\source\repos\EmployeeWageUC1\obj\Debug\netcoreapp3.1\EmployeeWageUC1.csproj.CoreCompileInputs.cache
+C:\Users\Akshay Somwanshi\source\repos\EmployeeWageUC1\obj\Debug\netcoreapp3.1\EmployeeWageUC1.dll
+C:\Users\Akshay Somwanshi\source\repos\EmployeeWageUC1\obj\Debug\netcoreapp3.1\EmployeeWageUC1.pdb
+C:\Users\Akshay Somwanshi\source\repos\EmployeeWageUC1\obj\Debug\netcoreapp3.1\EmployeeWageUC1.genruntimeconfig.cache
