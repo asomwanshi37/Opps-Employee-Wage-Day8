@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Calculate Wage UC6-Day8/1.0.0": {
+        "runtime": {
+          "Calculate Wage UC6-Day8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculate Wage UC6-Day8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
