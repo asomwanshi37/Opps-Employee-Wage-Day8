@@ -1,0 +1,14 @@
+C:\Users\Akshay Somwanshi\source\repos\Daily Calculate Employee Wage-Day8\bin\Debug\netcoreapp3.1\Daily Calculate Employee Wage-Day8.exe
+C:\Users\Akshay Somwanshi\source\repos\Daily Calculate Employee Wage-Day8\bin\Debug\netcoreapp3.1\Daily Calculate Employee Wage-Day8.deps.json
+C:\Users\Akshay Somwanshi\source\repos\Daily Calculate Employee Wage-Day8\bin\Debug\netcoreapp3.1\Daily Calculate Employee Wage-Day8.runtimeconfig.json
+C:\Users\Akshay Somwanshi\source\repos\Daily Calculate Employee Wage-Day8\bin\Debug\netcoreapp3.1\Daily Calculate Employee Wage-Day8.runtimeconfig.dev.json
+C:\Users\Akshay Somwanshi\source\repos\Daily Calculate Employee Wage-Day8\bin\Debug\netcoreapp3.1\Daily Calculate Employee Wage-Day8.dll
+C:\Users\Akshay Somwanshi\source\repos\Daily Calculate Employee Wage-Day8\bin\Debug\netcoreapp3.1\Daily Calculate Employee Wage-Day8.pdb
+C:\Users\Akshay Somwanshi\source\repos\Daily Calculate Employee Wage-Day8\obj\Debug\netcoreapp3.1\Daily Calculate Employee Wage-Day8.csproj.AssemblyReference.cache
+C:\Users\Akshay Somwanshi\source\repos\Daily Calculate Employee Wage-Day8\obj\Debug\netcoreapp3.1\Daily Calculate Employee Wage-Day8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akshay Somwanshi\source\repos\Daily Calculate Employee Wage-Day8\obj\Debug\netcoreapp3.1\Daily Calculate Employee Wage-Day8.AssemblyInfoInputs.cache
+C:\Users\Akshay Somwanshi\source\repos\Daily Calculate Employee Wage-Day8\obj\Debug\netcoreapp3.1\Daily Calculate Employee Wage-Day8.AssemblyInfo.cs
+C:\Users\Akshay Somwanshi\source\repos\Daily Calculate Employee Wage-Day8\obj\Debug\netcoreapp3.1\Daily Calculate Employee Wage-Day8.csproj.CoreCompileInputs.cache
+C:\Users\Akshay Somwanshi\source\repos\Daily Calculate Employee Wage-Day8\obj\Debug\netcoreapp3.1\Daily Calculate Employee Wage-Day8.dll
+C:\Users\Akshay Somwanshi\source\repos\Daily Calculate Employee Wage-Day8\obj\Debug\netcoreapp3.1\Daily Calculate Employee Wage-Day8.pdb
+C:\Users\Akshay Somwanshi\source\repos\Daily Calculate Employee Wage-Day8\obj\Debug\netcoreapp3.1\Daily Calculate Employee Wage-Day8.genruntimeconfig.cache
